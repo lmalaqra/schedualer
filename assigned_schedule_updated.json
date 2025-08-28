@@ -1,0 +1,2685 @@
+{
+    "احد": {
+        "New Campus": [
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "عبير هموز",
+                "Workers": [
+                    1
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "8:00",
+                "To": "11:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "ساري دار ديك",
+                "Workers": [
+                    2
+                ]
+            },
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "دينا بكر",
+                "Workers": [
+                    1
+                ]
+            },
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "دينا بكر",
+                "Workers": [
+                    1
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "14:00",
+                "To": "17:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    1
+                ]
+            }
+        ],
+        "Old Campus": [
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "غالب فادري",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "فادي هرش",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "غالب فادري",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عفاف النجاجره",
+                "Workers": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسين هلال",
+                "Workers": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    11,
+                    12
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "غالب فادري",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "فادي هرش",
+                "Workers": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عفاف النجاجره",
+                "Workers": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسين هلال",
+                "Workers": [
+                    11,
+                    12
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    13,
+                    14
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "غالب فادري",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "فادي هرش",
+                "Workers": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "نجيب ابو الرب",
+                "Workers": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسين هلال",
+                "Workers": [
+                    11,
+                    12
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    13,
+                    14
+                ]
+            }
+        ],
+        "CELT": [
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "نجيب ابو الرب",
+                "Workers": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    17,
+                    18
+                ]
+            },
+            {
+                "Course": "عيادة تقويم الأسنان 2",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عبير هموز",
+                "Workers": [
+                    19,
+                    20
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    21,
+                    22
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "علي الشواهين",
+                "Workers": [
+                    23,
+                    24
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ساري دار ديك",
+                "Workers": [
+                    17,
+                    18
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    19,
+                    20
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "علي الشواهين",
+                "Workers": [
+                    21,
+                    22
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    23,
+                    24
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ساري دار ديك",
+                "Workers": [
+                    17,
+                    18
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    19,
+                    20
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "علي الشواهين",
+                "Workers": [
+                    21,
+                    22
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    23,
+                    24
+                ]
+            }
+        ]
+    },
+    "اثنين": {
+        "New Campus": [
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "عبير هموز",
+                "Workers": [
+                    25
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "8:00",
+                "To": "11:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    26,
+                    2
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "8:00",
+                "To": "11:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "عيسى بنورة",
+                "Workers": [
+                    13
+                ]
+            },
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "عبير هموز",
+                "Workers": [
+                    25
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "11:00",
+                "To": "14:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    2,
+                    13
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "11:00",
+                "To": "14:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    26
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "14:00",
+                "To": "17:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    2,
+                    13
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "14:00",
+                "To": "17:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "عيسى بنورة",
+                "Workers": [
+                    25
+                ]
+            }
+        ],
+        "Old Campus": [
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    14,
+                    7
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "رينا عابد",
+                "Workers": [
+                    7,
+                    14
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    8,
+                    9
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    10,
+                    11
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "محمود حساسنة",
+                "Workers": [
+                    12,
+                    17
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "وائل حسن",
+                "Workers": [
+                    18,
+                    19
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسن حشاش",
+                "Workers": [
+                    20,
+                    21
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "رينا عابد",
+                "Workers": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    11,
+                    12
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "محمود حساسنة",
+                "Workers": [
+                    14,
+                    17
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "وائل حسن",
+                "Workers": [
+                    18,
+                    19
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسن حشاش",
+                "Workers": [
+                    20,
+                    21
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "رينا عابد",
+                "Workers": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    11,
+                    12
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "محمود حساسنة",
+                "Workers": [
+                    14,
+                    17
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "وائل حسن",
+                "Workers": [
+                    18,
+                    19
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسن حشاش",
+                "Workers": [
+                    20,
+                    21
+                ]
+            }
+        ],
+        "CELT": [
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "9:00",
+                "To": "11:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    22,
+                    23
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    24,
+                    1
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ميس عوده",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    22,
+                    23
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عمر خليل",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ساري دار ديك",
+                "Workers": [
+                    4,
+                    24
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عمر خليل",
+                "Workers": [
+                    22,
+                    23
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "علي الشواهين",
+                "Workers": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ساري دار ديك",
+                "Workers": [
+                    4,
+                    24
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عمر خليل",
+                "Workers": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "علي الشواهين",
+                "Workers": [
+                    22,
+                    23
+                ]
+            }
+        ]
+    },
+    "ثلاث": {
+        "New Campus": [
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "عبير هموز",
+                "Workers": [
+                    26
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    25
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    2
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "8:00",
+                "To": "11:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    13,
+                    8
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "8:00",
+                "To": "11:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "نجيب ابو الرب",
+                "Workers": [
+                    9
+                ]
+            },
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "دينا بكر",
+                "Workers": [
+                    2
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    25
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    8
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "11:00",
+                "To": "14:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    9,
+                    13
+                ]
+            },
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "دينا بكر",
+                "Workers": [
+                    2
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    25
+                ]
+            },
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "دينا بكر",
+                "Workers": [
+                    2
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    8
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "14:00",
+                "To": "17:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    9,
+                    13
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    25
+                ]
+            }
+        ],
+        "Old Campus": [
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "فادي هرش",
+                "Workers": [
+                    10,
+                    11
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عفاف النجاجره",
+                "Workers": [
+                    12,
+                    14
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "غالب فادري",
+                "Workers": [
+                    10,
+                    11
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "اسامه عامودي",
+                "Workers": [
+                    12,
+                    14
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "احمد دوايمه",
+                "Workers": [
+                    26,
+                    15
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عفاف النجاجره",
+                "Workers": [
+                    16,
+                    17
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "علي الشواهين",
+                "Workers": [
+                    18,
+                    19
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    20,
+                    21
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "غالب فادري",
+                "Workers": [
+                    10,
+                    11
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "اسامه عامودي",
+                "Workers": [
+                    12,
+                    14
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "فادي هرش",
+                "Workers": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "نجيب ابو الرب",
+                "Workers": [
+                    17,
+                    18
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "علي الشواهين",
+                "Workers": [
+                    19,
+                    20
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    21,
+                    26
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "غالب فادري",
+                "Workers": [
+                    10,
+                    11
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "اسامه عامودي",
+                "Workers": [
+                    12,
+                    14
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "فادي هرش",
+                "Workers": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "علي الشواهين",
+                "Workers": [
+                    17,
+                    18
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    19,
+                    20
+                ]
+            }
+        ],
+        "CELT": [
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "9:00",
+                "To": "11:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    24,
+                    1
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عيسى بنورة",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    1,
+                    24
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "سفيان السعيد",
+                "Workers": [
+                    7,
+                    22
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "محمود حساسنة",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    1,
+                    7
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "سفيان السعيد",
+                "Workers": [
+                    22,
+                    24
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    23,
+                    null
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "محمود حساسنة",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    1,
+                    7
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "سفيان السعيد",
+                "Workers": [
+                    22,
+                    23
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    24,
+                    26
+                ]
+            }
+        ]
+    },
+    "اربعاء": {
+        "New Campus": [
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "عبير هموز",
+                "Workers": [
+                    26
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    25
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    2
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "8:00",
+                "To": "11:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "محمود حساسنة",
+                "Workers": [
+                    13
+                ]
+            },
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "عبير هموز",
+                "Workers": [
+                    2
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    25
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    13
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "11:00",
+                "To": "14:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    26,
+                    21
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "11:00",
+                "To": "14:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    8
+                ]
+            },
+            {
+                "Course": "مختبر تقويم الأسنان 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "14B2230",
+                "Location": "New Campus",
+                "Instructor": "دينا بكر",
+                "Workers": [
+                    2
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    25
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    2
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "14:00",
+                "To": "17:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    8,
+                    13
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    21
+                ]
+            }
+        ],
+        "Old Campus": [
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    9,
+                    15
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "احمد دوايمه",
+                "Workers": [
+                    16,
+                    17
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عيسى بنورة",
+                "Workers": [
+                    18,
+                    19
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "رينا عابد",
+                "Workers": [
+                    9,
+                    15
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    16,
+                    17
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عفاف النجاجره",
+                "Workers": [
+                    18,
+                    19
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "وائل حسن",
+                "Workers": [
+                    20,
+                    23
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسن حشاش",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "رينا عابد",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    9,
+                    15
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "ساري دار ديك",
+                "Workers": [
+                    16,
+                    17
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "وائل حسن",
+                "Workers": [
+                    18,
+                    19
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسن حشاش",
+                "Workers": [
+                    20,
+                    23
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "رينا عابد",
+                "Workers": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    9,
+                    15
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "وائل حسن",
+                "Workers": [
+                    16,
+                    17
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسن حشاش",
+                "Workers": [
+                    18,
+                    19
+                ]
+            }
+        ],
+        "CELT": [
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ميس عوده",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ميس عوده",
+                "Workers": [
+                    7,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    11,
+                    12
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عمر خليل",
+                "Workers": [
+                    14,
+                    22
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "11:00",
+                "To": "13:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "سفيان السعيد",
+                "Workers": [
+                    24,
+                    1
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ميس عوده",
+                "Workers": [
+                    7,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    1,
+                    11
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عمر خليل",
+                "Workers": [
+                    12,
+                    14
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "13:00",
+                "To": "15:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "حسين هلال",
+                "Workers": [
+                    22,
+                    24
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    1,
+                    7
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عمر خليل",
+                "Workers": [
+                    10,
+                    11
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "15:00",
+                "To": "17:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "سفيان السعيد",
+                "Workers": [
+                    12,
+                    14
+                ]
+            }
+        ]
+    },
+    "خميس": {
+        "New Campus": [
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    26
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    21
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "8:00",
+                "To": "11:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    25,
+                    8
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "8:00",
+                "To": "11:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    13,
+                    20
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "8:00",
+                "To": "11:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "نجيب ابو الرب",
+                "Workers": [
+                    23
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    21
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    26
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "11:00",
+                "To": "14:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "نجيب ابو الرب",
+                "Workers": [
+                    8
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    13
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    20
+                ]
+            },
+            {
+                "Course": "طب الأسنان التحفظي 1/ عملي",
+                "From": "12:00",
+                "To": "15:00",
+                "Room": "24G0110",
+                "Location": "New Campus",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    21,
+                    23
+                ]
+            },
+            {
+                "Course": "علم التشريح والأجنة السني/ عملي",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "14B2260",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    8
+                ]
+            },
+            {
+                "Course": "أشعة الوجه والفكين1/ عملي",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "24G0130",
+                "Location": "New Campus",
+                "Instructor": "مجد برهم",
+                "Workers": [
+                    13
+                ]
+            },
+            {
+                "Course": "إستعاضة سنية متحركة 1/ عملي",
+                "From": "14:00",
+                "To": "17:00",
+                "Room": "14B3150",
+                "Location": "New Campus",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    20
+                ]
+            }
+        ],
+        "Old Campus": [
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    2,
+                    22
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "فادي هرش",
+                "Workers": [
+                    24,
+                    3
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "ساري دار ديك",
+                "Workers": [
+                    4,
+                    7
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسين هلال",
+                "Workers": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "رينا عابد",
+                "Workers": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    4,
+                    7
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "فادي هرش",
+                "Workers": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "ساري دار ديك",
+                "Workers": [
+                    22,
+                    24
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسين هلال",
+                "Workers": [
+                    11,
+                    12
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسن حشاش",
+                "Workers": [
+                    14,
+                    15
+                ]
+            },
+            {
+                "Course": "عيادة طب أسنان الأطفال 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "رينا عابد",
+                "Workers": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    4,
+                    7
+                ]
+            },
+            {
+                "Course": "عيادة علم أمراض اللثة 3",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "فادي هرش",
+                "Workers": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "Course": "عيادة استعاضة سنية متحركة 4",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "ساري دار ديك",
+                "Workers": [
+                    11,
+                    12
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم والأسنان والفكين 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسين هلال",
+                "Workers": [
+                    14,
+                    15
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    22,
+                    24
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 4",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "حسني علي",
+                "Workers": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 5",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "Old Campus",
+                "Instructor": "عبد الرحمن مصطفى",
+                "Workers": [
+                    4,
+                    7
+                ]
+            }
+        ],
+        "CELT": [
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    16,
+                    17
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "سفيان السعيد",
+                "Workers": [
+                    18,
+                    19
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    1,
+                    5
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "8:00",
+                "To": "10:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عيسى بنورة",
+                "Workers": [
+                    6,
+                    11
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    1,
+                    5
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "محمد عامر",
+                "Workers": [
+                    6,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "سفيان السعيد",
+                "Workers": [
+                    17,
+                    18
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    19,
+                    null
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "10:00",
+                "To": "12:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عيسى بنورة",
+                "Workers": [
+                    null,
+                    null
+                ]
+            },
+            {
+                "Course": "عيادة مداواة الأسنان اللبية 2 التسجيل من خلال القسم",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "يوسف ساعد",
+                "Workers": [
+                    1,
+                    5
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    6,
+                    16
+                ]
+            },
+            {
+                "Course": "عيادة جراحة الفم 1 التسجيل من خلال القسم",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "سفيان السعيد",
+                "Workers": [
+                    17,
+                    18
+                ]
+            },
+            {
+                "Course": "عيادة تشخيص أمراض الفم التسجيل من خلال القسم",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "لم يحدد",
+                "Workers": [
+                    19,
+                    26
+                ]
+            },
+            {
+                "Course": "عيادة تركيبات سنية 1",
+                "From": "12:00",
+                "To": "14:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "عيسى بنورة",
+                "Workers": [
+                    25,
+                    null
+                ]
+            },
+            {
+                "Course": "عيادة طب الأسنان التحفظي 3 التسجيل من خلال القسم",
+                "From": "14:00",
+                "To": "16:00",
+                "Room": "509999",
+                "Location": "CELT",
+                "Instructor": "ابتهال بشتاوي",
+                "Workers": [
+                    1,
+                    5
+                ]
+            }
+        ]
+    }
+}
