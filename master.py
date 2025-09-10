@@ -435,5 +435,104 @@ for row in ws2.iter_rows(min_row=2):
             cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
 
 # Save final Excel
+
+
+# ===============================
+# 6. Per-Instructor Workbook
+# ===============================
+wb_instructors = Workbook()
+wb_instructors.remove(wb_instructors.active)  # remove default sheet
+
+# Collect all entries (clinics + lectures)
+all_entries = []
+for day, lst in assigned_schedule.items():
+    for e in lst:
+        all_entries.append((day, e, "clinic"))
+for day, lst in other_schedule.items():
+    for e in lst:
+        all_entries.append((day, e, "lecture"))
+
+# Generate unique time slots across everything
+def generate_used_time_slots(entries, interval_minutes=30):
+    used_slots = set()
+    for e in entries:
+        if e.get("From") and e.get("To"):
+            start = datetime.strptime(e["From"], "%H:%M")
+            end = datetime.strptime(e["To"], "%H:%M")
+            cur = start
+            while cur < end:
+                slot_end = cur + timedelta(minutes=interval_minutes)
+                used_slots.add((cur.strftime("%H:%M"), slot_end.strftime("%H:%M")))
+                cur = slot_end
+    return sorted(list(used_slots), key=lambda x: (x[0], x[1]))
+
+all_time_slots = generate_used_time_slots([e for _, e, _ in all_entries])
+
+# Group entries per instructor
+instructors = {}
+for day, e, etype in all_entries:
+    instructors.setdefault(e["Instructor"], []).append((day, e, etype))
+
+def color_from_string(s, prefix="X"):
+    return hashlib.md5((prefix+s).encode("utf-8")).hexdigest()[:6]
+
+def add_entry(ws, row_info, e, time_slots, label, color_key):
+    row = row_info + [""] * len(time_slots)
+    ws.append(row)
+    row_idx = ws.max_row
+
+    if e.get("From") and e.get("To"):
+        start_time = datetime.strptime(e["From"], "%H:%M")
+        end_time = datetime.strptime(e["To"], "%H:%M")
+        start_col, end_col = None, None
+
+        for idx, (slot_start, slot_end) in enumerate(time_slots):
+            s_dt = datetime.strptime(slot_start, "%H:%M")
+            e_dt = datetime.strptime(slot_end, "%H:%M")
+            if start_col is None and start_time < e_dt and end_time > s_dt:
+                start_col = idx + len(row_info) + 1
+            if start_col is not None and start_time < e_dt and end_time > s_dt:
+                end_col = idx + len(row_info) + 1
+
+        if start_col is not None and end_col is not None:
+            if start_col != end_col:
+                ws.merge_cells(start_row=row_idx, start_column=start_col, end_row=row_idx, end_column=end_col)
+            cell = ws.cell(row=row_idx, column=start_col, value=label)
+            cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+            cell.fill = PatternFill(start_color=color_key, end_color=color_key, fill_type="solid")
+
+# Create one sheet per instructor
+for instr, entries in instructors.items():
+    ws = wb_instructors.create_sheet(title=instr[:30])  # Excel limit = 31 chars
+    header = ["Day", "Location/Room"] + [f"{s}-{e}" for s, e in all_time_slots]
+    ws.append(header)
+
+    for day, e, etype in entries:
+        if etype == "lecture":
+            row_info = [day, f"{e.get('Location','')} / {e.get('Room','')}"]
+            label = e["Course"]
+            color_key = color_from_string(e["Course"], "lec")
+        else:
+            row_info = [day, f"{e.get('Location','')} / {e.get('Room','')}"]
+            label = e["Course"]
+            color_key = color_from_string(e["Course"], "cli")
+
+        add_entry(ws, row_info, e, all_time_slots, label, color_key)
+
+    # Formatting
+    ws.column_dimensions["A"].width = 12
+    ws.column_dimensions["B"].width = 25
+    for col_idx in range(3, len(all_time_slots)+3):
+        ws.column_dimensions[get_column_letter(col_idx)].width = 6
+    for cell in ws[1]:
+        cell.alignment = Alignment(horizontal="center", vertical="center", text_rotation=90, wrap_text=True)
+    for row in ws.iter_rows(min_row=2):
+        for cell in row:
+            if cell.alignment is None:
+                cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+
+# Save the extra workbook
+wb_instructors.save("per_instructor_schedule.xlsx")
+print("✅ Extra workbook 'per_instructor_schedule.xlsx' generated with one sheet per instructor.")
 wb.save("master_schedule.xlsx")
 print("✅ Combined schedule saved to master_schedule.xlsx")
